@@ -1,0 +1,84 @@
+
+{
+  "tiles": [
+    {
+      "id": "tile_001",
+      "title": "Ceramic Blue Wave",
+      "description": "Premium ceramic tile with ocean blue wave pattern. Perfect for bathroom and kitchen backsplash. High durability and water resistant.",
+      "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?w=500",
+      "category": "ceramic",
+      "price": 45.99,
+      "currency": "USD",
+      "dimensions": "60x60 cm",
+      "material": "Ceramic",
+      "inStock": true,
+      "tags": ["Modern", "Blue", "Waterproof"]
+    },
+    {
+      "id": "tile_002",
+      "title": "Marble White Gold",
+      "description": "Luxury marble tile with gold veining. Adds elegance to any space. Ideal for living rooms and feature walls.",
+      "image": "https://images.unsplash.com/photo-1616486338814-3f2d1b43c35c?w=500",
+      "category": "marble",
+      "price": 89.99,
+      "currency": "USD",
+      "dimensions": "30x60 cm",
+      "material": "Marble",
+      "inStock": true,
+      "tags": ["Luxury", "Gold", "Elegant"]
+    },
+    {
+      "id": "tile_003",
+      "title": "Geometric Hexagon",
+      "description": "Modern hexagonal tile in matte finish. Creates stunning geometric patterns. Perfect for contemporary spaces.",
+      "image": "https://images.unsplash.com/photo-1620626011761-996317b8d101?w=500",
+      "category": "geometric",
+      "price": 67.5,
+      "currency": "USD",
+      "dimensions": "20x23 cm",
+      "material": "Porcelain",
+      "inStock": true,
+      "tags": ["Geometric", "Modern", "Matte"]
+    },
+    {
+      "id": "tile_004",
+      "title": "Moroccan Pattern",
+      "description": "Traditional Moroccan-inspired tile with intricate patterns. Adds bohemian charm to any room.",
+      "image": "https://images.unsplash.com/photo-1615996001375-c7ef13294436?w=500",
+      "category": "pattern",
+      "price": 54.99,
+      "currency": "USD",
+      "dimensions": "15x15 cm",
+      "material": "Cement",
+      "inStock": true,
+      "tags": ["Moroccan", "Bohemian", "Colorful"]
+    },
+    {
+      "id": "tile_005",
+      "title": "Wood Plank Porcelain",
+      "description": "Wood-look porcelain tile with realistic grain. Waterproof and durable. Perfect for rustic and farmhouse styles.",
+      "image": "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=500",
+      "category": "wood",
+      "price": 78.99,
+      "currency": "USD",
+      "dimensions": "15x90 cm",
+      "material": "Porcelain",
+      "inStock": true,
+      "tags": ["Wood", "Rustic", "Durable"]
+    },
+    {
+      "id": "tile_006",
+      "title": "Terrazzo Pastel",
+      "description": "Colorful terrazzo tile with pastel chips. Trendy and fun. Great for modern kitchens and kids rooms.",
+      "image": "https://images.unsplash.com/photo-1618219908411-107e7d2b8cd3?w=500",
+      "category": "terrazzo",
+      "price": 59.99,
+      "currency": "USD",
+      "dimensions": "50x50 cm",
+      "material": "Terrazzo",
+      "inStock": true,
+      "tags": ["Colorful", "Modern", "Pastel"]
+    }
+  ],
+  "users": []
+}
